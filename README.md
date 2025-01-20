@@ -45,6 +45,8 @@ A dynamic web application for creating, customizing, and managing invoices. This
 ---
 
 ## **Project Structure**
+![image](https://github.com/user-attachments/assets/cd3ca482-b92b-44f9-b344-b09c69605eaf)
+
 Invoice_Generator/
 │
 ├── Java_Backend/
